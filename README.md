@@ -5,9 +5,8 @@ only supports .pdf files
 
 project still in progress
 
-**requirements: qt6 qt6-pdf**
-
 ## build
+**requirements: qt6 qt6-pdf**
 ```
 qmake6 ./bia.pro && make
 ```
